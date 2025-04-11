@@ -1,5 +1,5 @@
 project:
-  name: FocusTrack
+  name: FocusTrackmix23
   description: Ferramenta minimalista open-source para produtividade usando a técnica Pomodoro, com integração ao Telegram.
   maintainers:
     - name: mix2323
